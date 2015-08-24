@@ -1,0 +1,1253 @@
+{
+  "statuses": [
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Mon Jun 24 00:35:53 +0000 2013",
+      "id": 348962648139915260,
+      "id_str": "348962648139915265",
+      "text": "\"@PCHSearchandWin: RT if you approve of the new driver of the #PCH Prize Patrol Van http://t.co/4lSX2s7C3X\" god bless yeah I'll prove",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1180993597,
+        "id_str": "1180993597",
+        "name": "Kevin  scott",
+        "screen_name": "kevinscotts61",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 10,
+        "friends_count": 35,
+        "listed_count": 0,
+        "created_at": "Fri Feb 15 03:25:06 +0000 2013",
+        "favourites_count": 306,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 309,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          27.4707842,
+          -80.3554707
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -80.3554707,
+          27.4707842
+        ]
+      },
+      "place": {
+        "id": "55bd785fb57d8617",
+        "url": "http://api.twitter.com/1/geo/id/55bd785fb57d8617.json",
+        "place_type": "city",
+        "name": "Fort Pierce North",
+        "full_name": "Fort Pierce North, FL",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -80.38272,
+                27.447516
+              ],
+              [
+                -80.33108,
+                27.447516
+              ],
+              [
+                -80.33108,
+                27.50001
+              ],
+              [
+                -80.38272,
+                27.50001
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PCH",
+            "indices": [
+              62,
+              66
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "PCHSearchandWin",
+            "name": "PCHSearchandWin",
+            "id": 40058557,
+            "id_str": "40058557",
+            "indices": [
+              1,
+              17
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 344959065304215550,
+            "id_str": "344959065304215552",
+            "indices": [
+              84,
+              106
+            ],
+            "media_url": "http://pbs.twimg.com/media/BMmKcTWCMAAv90v.png",
+            "media_url_https": "https://pbs.twimg.com/media/BMmKcTWCMAAv90v.png",
+            "url": "http://t.co/4lSX2s7C3X",
+            "display_url": "pic.twitter.com/4lSX2s7C3X",
+            "expanded_url": "http://twitter.com/PCHSearchandWin/status/344959065300021249/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 349,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 596,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 198,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 344959065300021250,
+            "source_status_id_str": "344959065300021249"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Sat Jun 22 22:28:07 +0000 2013",
+      "id": 348568105435406340,
+      "id_str": "348568105435406337",
+      "text": "I keep waiting for the pch prize patrol to show up.......hmmm.... maybe they cant find me.",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1077263858,
+        "id_str": "1077263858",
+        "name": "Kimberly A Gilb",
+        "screen_name": "AKimmerz816",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4,
+        "friends_count": 14,
+        "listed_count": 0,
+        "created_at": "Thu Jan 10 17:59:18 +0000 2013",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3551349878/ae849f0ea172f1161fdf6706b9fe5ac6_normal.jpeg",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3551349878/ae849f0ea172f1161fdf6706b9fe5ac6_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Sat Jun 22 17:34:17 +0000 2013",
+      "id": 348494160849928200,
+      "id_str": "348494160849928192",
+      "text": "RT @PCHDanielle: Do you know what the #PrizePatrol packs for a trip to award a prize?  Find out! http://t.co/GuHI2tDpYe",
+      "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 163932241,
+        "id_str": "163932241",
+        "name": "#CountonKobe @ PCH",
+        "screen_name": "_TripleThreat99",
+        "location": "TripleThreat , GA",
+        "description": "#ICanDoAllThings ...... #GOD #Jesus #TeamFollowBck #LakerNation #CSU '16 #ExtremelyBlessed #PCHVictor #ImpossibleIsNothing #Faith #Believe #Georgia",
+        "url": "http://t.co/IhVwwetV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/IhVwwetV",
+                "expanded_url": "http://www.nike.com/kkimbrough",
+                "display_url": "nike.com/kkimbrough",
+                "indices": [
+                  0,
+                  20
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2631,
+        "friends_count": 1781,
+        "listed_count": 3,
+        "created_at": "Wed Jul 07 16:42:23 +0000 2010",
+        "favourites_count": 518,
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11923,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/783289067/64b8ef37429f15faa7f8f19d7814ba1c.jpeg",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/783289067/64b8ef37429f15faa7f8f19d7814ba1c.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://a0.twimg.com/profile_images/378800000033719571/262236ec3e57c6cd67dd3a57200a73df_normal.jpeg",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/378800000033719571/262236ec3e57c6cd67dd3a57200a73df_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/163932241/1370493535",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "result_type": "recent",
+          "iso_language_code": "en"
+        },
+        "created_at": "Fri Jun 21 18:56:38 +0000 2013",
+        "id": 348152498378387460,
+        "id_str": "348152498378387458",
+        "text": "Do you know what the #PrizePatrol packs for a trip to award a prize?  Find out! http://t.co/GuHI2tDpYe",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 217087141,
+          "id_str": "217087141",
+          "name": "PCH Danielle Lam",
+          "screen_name": "PCHDanielle",
+          "location": "New York",
+          "description": "PCH Prize Patrol girl who travels the country surprising lucky winners with BIG checks! Public face of PCH seen on TV.",
+          "url": "http://t.co/sTOtMnIVz7",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/sTOtMnIVz7",
+                  "expanded_url": "http://www.facebook.com/DaniellePCHPrizePatrol",
+                  "display_url": "facebook.com/DaniellePCHPri…",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 4964,
+          "friends_count": 68,
+          "listed_count": 13,
+          "created_at": "Thu Nov 18 15:07:47 +0000 2010",
+          "favourites_count": 117,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 993,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://a0.twimg.com/profile_background_images/642101590/v17hcssqam0ihnf3x8hf.jpeg",
+          "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/642101590/v17hcssqam0ihnf3x8hf.jpeg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://a0.twimg.com/profile_images/3754624659/36f739b97765c3948c9f95fc018ba179_normal.jpeg",
+          "profile_image_url_https": "https://si0.twimg.com/profile_images/3754624659/36f739b97765c3948c9f95fc018ba179_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/217087141/1357222807",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 4,
+        "favorite_count": 3,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "PrizePatrol",
+              "indices": [
+                21,
+                33
+              ]
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/GuHI2tDpYe",
+              "expanded_url": "http://blog.pch.com/blog/2013/06/20/whats-in-prize-patrol-elite-member-danielle-lams-suitcase/",
+              "display_url": "blog.pch.com/blog/2013/06/2…",
+              "indices": [
+                80,
+                102
+              ]
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PrizePatrol",
+            "indices": [
+              38,
+              50
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/GuHI2tDpYe",
+            "expanded_url": "http://blog.pch.com/blog/2013/06/20/whats-in-prize-patrol-elite-member-danielle-lams-suitcase/",
+            "display_url": "blog.pch.com/blog/2013/06/2…",
+            "indices": [
+              97,
+              119
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "PCHDanielle",
+            "name": "PCH Danielle Lam",
+            "id": 217087141,
+            "id_str": "217087141",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Fri Jun 21 18:56:38 +0000 2013",
+      "id": 348152498378387460,
+      "id_str": "348152498378387458",
+      "text": "Do you know what the #PrizePatrol packs for a trip to award a prize?  Find out! http://t.co/GuHI2tDpYe",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 217087141,
+        "id_str": "217087141",
+        "name": "PCH Danielle Lam",
+        "screen_name": "PCHDanielle",
+        "location": "New York",
+        "description": "PCH Prize Patrol girl who travels the country surprising lucky winners with BIG checks! Public face of PCH seen on TV.",
+        "url": "http://t.co/sTOtMnIVz7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/sTOtMnIVz7",
+                "expanded_url": "http://www.facebook.com/DaniellePCHPrizePatrol",
+                "display_url": "facebook.com/DaniellePCHPri…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4964,
+        "friends_count": 68,
+        "listed_count": 13,
+        "created_at": "Thu Nov 18 15:07:47 +0000 2010",
+        "favourites_count": 117,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 993,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/642101590/v17hcssqam0ihnf3x8hf.jpeg",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/642101590/v17hcssqam0ihnf3x8hf.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3754624659/36f739b97765c3948c9f95fc018ba179_normal.jpeg",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3754624659/36f739b97765c3948c9f95fc018ba179_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217087141/1357222807",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 4,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PrizePatrol",
+            "indices": [
+              21,
+              33
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/GuHI2tDpYe",
+            "expanded_url": "http://blog.pch.com/blog/2013/06/20/whats-in-prize-patrol-elite-member-danielle-lams-suitcase/",
+            "display_url": "blog.pch.com/blog/2013/06/2…",
+            "indices": [
+              80,
+              102
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Fri Jun 21 06:53:57 +0000 2013",
+      "id": 347970627166142460,
+      "id_str": "347970627166142464",
+      "text": "RT @PCHSearchandWin: RT if you approve of the new driver of the #PCH Prize Patrol Van http://t.co/MHIFlNRWc0",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1237063946,
+        "id_str": "1237063946",
+        "name": "jenks_lynda ·",
+        "screen_name": "jenks_lynda",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 12,
+        "listed_count": 0,
+        "created_at": "Sun Mar 03 00:10:12 +0000 2013",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "result_type": "recent",
+          "iso_language_code": "en"
+        },
+        "created_at": "Wed Jun 12 23:27:05 +0000 2013",
+        "id": 344959065300021250,
+        "id_str": "344959065300021249",
+        "text": "RT if you approve of the new driver of the #PCH Prize Patrol Van http://t.co/MHIFlNRWc0",
+        "source": "<a href=\"http://www.buddymedia.com\" rel=\"nofollow\">Stream Publisher</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 40058557,
+          "id_str": "40058557",
+          "name": "PCHSearchandWin",
+          "screen_name": "PCHSearchandWin",
+          "location": "USA",
+          "description": "Click the link below to visit us! Win Free Prizes Daily! Just for Searching! Get an entry for a PCH SuperPrize with your first search every day.",
+          "url": "http://t.co/WNIDbDwi",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/WNIDbDwi",
+                  "expanded_url": "http://bit.ly/WGLH0n",
+                  "display_url": "bit.ly/WGLH0n",
+                  "indices": [
+                    0,
+                    20
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 21213,
+          "friends_count": 209,
+          "listed_count": 267,
+          "created_at": "Thu May 14 18:50:35 +0000 2009",
+          "favourites_count": 0,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 5086,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "323978",
+          "profile_background_image_url": "http://a0.twimg.com/profile_background_images/103392259/twitter-bg2.jpg",
+          "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/103392259/twitter-bg2.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://a0.twimg.com/profile_images/211991824/SearchandWin_normal.jpg",
+          "profile_image_url_https": "https://si0.twimg.com/profile_images/211991824/SearchandWin_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/40058557/1349810314",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "093278",
+          "profile_text_color": "FF6600",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 15,
+        "favorite_count": 14,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "PCH",
+              "indices": [
+                43,
+                47
+              ]
+            }
+          ],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [],
+          "media": [
+            {
+              "id": 344959065304215550,
+              "id_str": "344959065304215552",
+              "indices": [
+                65,
+                87
+              ],
+              "media_url": "http://pbs.twimg.com/media/BMmKcTWCMAAv90v.png",
+              "media_url_https": "https://pbs.twimg.com/media/BMmKcTWCMAAv90v.png",
+              "url": "http://t.co/MHIFlNRWc0",
+              "display_url": "pic.twitter.com/MHIFlNRWc0",
+              "expanded_url": "http://twitter.com/PCHSearchandWin/status/344959065300021249/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 600,
+                  "h": 349,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 596,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 198,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 15,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PCH",
+            "indices": [
+              64,
+              68
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "PCHSearchandWin",
+            "name": "PCHSearchandWin",
+            "id": 40058557,
+            "id_str": "40058557",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 344959065304215550,
+            "id_str": "344959065304215552",
+            "indices": [
+              86,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/BMmKcTWCMAAv90v.png",
+            "media_url_https": "https://pbs.twimg.com/media/BMmKcTWCMAAv90v.png",
+            "url": "http://t.co/MHIFlNRWc0",
+            "display_url": "pic.twitter.com/MHIFlNRWc0",
+            "expanded_url": "http://twitter.com/PCHSearchandWin/status/344959065300021249/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 349,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 596,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 198,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 344959065300021250,
+            "source_status_id_str": "344959065300021249"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Thu Jun 20 03:27:42 +0000 2013",
+      "id": 347556335228944400,
+      "id_str": "347556335228944384",
+      "text": "@pchdotcom I want to see my Prize Patrol PCH knock mhy door on mjune 30th help meee",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": 344907856010674200,
+      "in_reply_to_status_id_str": "344907856010674176",
+      "in_reply_to_user_id": 16348867,
+      "in_reply_to_user_id_str": "16348867",
+      "in_reply_to_screen_name": "pchdotcom",
+      "user": {
+        "id": 298348201,
+        "id_str": "298348201",
+        "name": "Glenda Perez",
+        "screen_name": "PerezGaviota",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 17,
+        "listed_count": 10,
+        "created_at": "Sat May 14 04:48:22 +0000 2011",
+        "favourites_count": 418,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 429,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3067046993/d6dcfe01cc2705e3524a723ab3e77325_normal.jpeg",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3067046993/d6dcfe01cc2705e3524a723ab3e77325_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "pchdotcom",
+            "name": "PCH",
+            "id": 16348867,
+            "id_str": "16348867",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Thu Jun 20 03:24:30 +0000 2013",
+      "id": 347555531940065300,
+      "id_str": "347555531940065280",
+      "text": "@pchdotcom Yes,yes I will wait my Prize Patrol PCH on june 30th,please let me win,help meeee as soon",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": 345595314343927800,
+      "in_reply_to_status_id_str": "345595314343927808",
+      "in_reply_to_user_id": 16348867,
+      "in_reply_to_user_id_str": "16348867",
+      "in_reply_to_screen_name": "pchdotcom",
+      "user": {
+        "id": 298348201,
+        "id_str": "298348201",
+        "name": "Glenda Perez",
+        "screen_name": "PerezGaviota",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 17,
+        "listed_count": 10,
+        "created_at": "Sat May 14 04:48:22 +0000 2011",
+        "favourites_count": 418,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 429,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3067046993/d6dcfe01cc2705e3524a723ab3e77325_normal.jpeg",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3067046993/d6dcfe01cc2705e3524a723ab3e77325_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "pchdotcom",
+            "name": "PCH",
+            "id": 16348867,
+            "id_str": "16348867",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Thu Jun 20 03:19:10 +0000 2013",
+      "id": 347554190186401800,
+      "id_str": "347554190186401792",
+      "text": "@pchdotcom @pchgames My Prize Patrol PCH",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": 346598615218786300,
+      "in_reply_to_status_id_str": "346598615218786304",
+      "in_reply_to_user_id": 16348867,
+      "in_reply_to_user_id_str": "16348867",
+      "in_reply_to_screen_name": "pchdotcom",
+      "user": {
+        "id": 298348201,
+        "id_str": "298348201",
+        "name": "Glenda Perez",
+        "screen_name": "PerezGaviota",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 17,
+        "listed_count": 10,
+        "created_at": "Sat May 14 04:48:22 +0000 2011",
+        "favourites_count": 418,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 429,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/3067046993/d6dcfe01cc2705e3524a723ab3e77325_normal.jpeg",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/3067046993/d6dcfe01cc2705e3524a723ab3e77325_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "pchdotcom",
+            "name": "PCH",
+            "id": 16348867,
+            "id_str": "16348867",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "pchgames",
+            "name": "pchgames",
+            "id": 16436468,
+            "id_str": "16436468",
+            "indices": [
+              11,
+              20
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Wed Jun 19 20:00:43 +0000 2013",
+      "id": 347443850580721660,
+      "id_str": "347443850580721665",
+      "text": "@CarissaDeAnn PCH NEVER notifies winners in advance! Winners of $10,000 or more are surprised by the Prize Patrol in person only!",
+      "source": "<a href=\"http://www.conversocial.com\" rel=\"nofollow\">Conversocial</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 347410670423273500,
+      "in_reply_to_status_id_str": "347410670423273472",
+      "in_reply_to_user_id": 63311813,
+      "in_reply_to_user_id_str": "63311813",
+      "in_reply_to_screen_name": "CarissaDeAnn",
+      "user": {
+        "id": 16348867,
+        "id_str": "16348867",
+        "name": "PCH",
+        "screen_name": "pchdotcom",
+        "location": "Port Washington, NY",
+        "description": "Official Publishers Clearing House twitter & blog feed.",
+        "url": "http://t.co/PJqfFERUX9",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/PJqfFERUX9",
+                "expanded_url": "http://blog.pch.com",
+                "display_url": "blog.pch.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 18371,
+        "friends_count": 122,
+        "listed_count": 213,
+        "created_at": "Thu Sep 18 16:26:12 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 4430,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/2702826833/154c1a2ae86acbe9f3049873e2b834d8_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/2702826833/154c1a2ae86acbe9f3049873e2b834d8_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16348867/1349810215",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "CarissaDeAnn",
+            "name": "Carissa DeAnn",
+            "id": 63311813,
+            "id_str": "63311813",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.043,
+    "max_id": 348962648139915260,
+    "max_id_str": "348962648139915265",
+    "query": "pch+prize+patrol",
+    "refresh_url": "?since_id=348962648139915265&q=pch%20prize%20patrol&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

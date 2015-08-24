@@ -1,0 +1,57 @@
+body {
+background-color:#faf7f7;
+font-family:serif;
+}
+.container{
+/*width:40%;*/
+}
+.media-list{
+color: #cccccc;
+border-radius: 4px;
+margin-bottom:0px;
+height: 782px;
+overflow: hidden;
+
+}
+.media-list li{
+padding:15px;
+background-image: url("../images/homework.png");
+}
+.media-list li .media-heading{
+font-weight:bold;
+font-family:Myriad Pro;
+font-size:18px;
+}
+.media-body p{
+font-weight:bold;
+font-family:"Myriad Pro Semibold";
+font-size:14px;
+height: 33px;
+}
+.list-group-item{
+ background-image: url("../images/title-bg.png");
+			color:#ffffff !important;
+			font-family:Myriad Pro;
+			font-size:26px;
+			border: none;
+			padding: 2px 15px !important;
+			
+}
+.footer{
+background-image: url("../images/homework.png");
+margin-top:0px;
+
+border-right-bottom-radius: 4px;
+height:50px;
+margin-bottom:10px;
+color:#ffffff;
+}
+.footer .glyphicon{
+top: 10px;
+float: right;
+margin-right: 20px;
+font-size: 30px;
+cursor: pointer;
+}
+
+
